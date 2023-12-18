@@ -2,5 +2,5 @@
 This program aims to identify patterns and relationships between various factors and the likelihood of divorce.
 
 <img width="777" alt="Screenshot 2023-12-18 at 8 14 06 pm" src="https://github.com/Rlohaustralia/Divorce-Probability-Prediction/assets/110233607/592967be-0cfd-469f-8573-58d2140150ab">
-<img width="775" alt="Screenshot 2023-12-18 at 8 14 47 pm" src="https://github.com/Rlohaustralia/Divorce-Probability-Prediction/assets/110233607/5e2ebb0b-ecd0-456c-895f-30183937f78f">
-<img width="728" alt="Screenshot 2023-12-18 at 8 16 07 pm" src="https://github.com/Rlohaustralia/Divorce-Probability-Prediction/assets/110233607/c96247f3-2770-47e2-98be-b59976eb1c0d">
+<img width="717" alt="Screenshot 2023-12-18 at 8 18 18 pm" src="https://github.com/Rlohaustralia/Divorce-Probability-Prediction/assets/110233607/63d9377e-2555-4fa7-9e73-ab3871230b38">
+<img width="720" alt="Screenshot 2023-12-18 at 8 18 39 pm" src="https://github.com/Rlohaustralia/Divorce-Probability-Prediction/assets/110233607/a3729e82-d500-4556-8f9b-974650cd47b7">
