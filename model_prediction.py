@@ -6,8 +6,7 @@ import seaborn as sns
 from matplotlib import pyplot
 import matplotlib.pyplot as plt
 from pandas import read_csv
-from pandas_profiling import ProfileReport
-from streamlit_pandas_profiling import st_profile_report
+
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import KFold
@@ -172,16 +171,7 @@ df.plot(kind='box', subplots=True, layout=(8,4), sharex=False, sharey=False, col
 st.pyplot(fig_box)
 st.write("")
 
-'''
-# Produce full profiler report for EDA
-st.subheader('EDA with profiling report')
-profile = ProfileReport(df, title="Marriage and Divorce EDA")
-st_profile_report(profile)
-st.write("")
-st.write("")
-st.write("")
-st.write("")
-'''
+
 
 st.write("")
 st.write("")
